@@ -4,12 +4,5 @@
 .layout {
     background: rgba(0, 0, 0, 0.1);
     lost-center: $layout-width;
-}
-
-@include breakpoint-sm {
-    .layout {
-        margin-top: 5vh;
-        margin-bottom: 5vh;
-        height: 90vh;
-    }
+    height: 100vh;
 }
