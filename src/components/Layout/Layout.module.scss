@@ -2,5 +2,14 @@
 @import '../../assets/scss/mixins';
 
 .layout {
+    background: rgba(255, 255, 255, 0.95);
     lost-center: $layout-width;
+}
+
+@include breakpoint-sm {
+    .layout {
+        margin-top: 5vh;
+        margin-bottom: 5vh;
+        height: 90vh;
+    }
 }

@@ -30,7 +30,7 @@ module.exports = {
     bio: 'Welcome to Auraq-E-Zahid, a curated selection of my Urdu poetry.',
     contacts: {
       email: 'zzia@live.ca',
-      facebook: 'https://www.facebook.com/zahid.zia.5',
+      facebook: 'zahid.zia.5',
     }
   }
 };
