@@ -3,8 +3,8 @@
 module.exports = {
   url: 'https://auraq-e-zahid.com',
   pathPrefix: '/',
-  title: 'Auraq-E-Zahid',
-  subtitle: 'Welcome to Auraq-E-Zahid, a curated selection of my Urdu poetry.',
+  title: 'Auraq-e-Zahid',
+  subtitle: 'Welcome to Auraq-e-Zahid, a curated selection of my Urdu poetry.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -27,7 +27,7 @@ module.exports = {
   author: {
     name: 'Zahid Zia',
     photo: '/photo.jpg',
-    bio: 'Welcome to Auraq-E-Zahid, a curated selection of my Urdu poetry.',
+    bio: 'Welcome to Auraq-e-Zahid, a curated selection of my Urdu poetry.',
     contacts: {
       email: 'zzia@live.ca',
       facebook: 'zahid.zia.5',
